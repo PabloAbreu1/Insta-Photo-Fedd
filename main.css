@@ -1,0 +1,152 @@
+body {
+    background-color: rgb(141, 141, 141);
+    margin: 0;
+}
+
+
+.cuerpo {
+    background-color: white;
+    height: 600px;
+    width: 450px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.head {
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.puntitos {
+    margin-left: 320px;
+}
+
+.imagen {
+    height: 350px;
+    width: 450px;
+}
+
+.footer {
+    padding-top: 0px;
+    height: 0px;
+    padding-left: 10px;
+}
+
+.texto {
+    padding-top: 30px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+
+.icono-extremo {
+    margin-left: 300px;
+}
+
+.icono-izquierda {
+    padding-top: 10px;
+    height: 0px;
+    padding-left: 0px;
+}
+
+.cuerpo1 {
+    background-color: white;
+    height: 600px;
+    width: 450px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.head1 {
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.puntitos1 {
+    margin-left: 320px;
+}
+
+.imagen1 {
+    height: 350px;
+    width: 450px;
+}
+
+.footer1 {
+    padding-top: 0px;
+    height: 0px;
+    padding-left: 10px;
+}
+
+.texto1 {
+    padding-top: 30px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+
+.icono-extremo1 {
+    margin-left: 300px;
+}
+
+.icono-izquierda1 {
+    padding-top: 10px;
+    height: 0px;
+    padding-left: 0px;
+}
+
+.cuerpo2 {
+    background-color: white;
+    height: 600px;
+    width: 450px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.head2 {
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.puntitos2 {
+    margin-left: 320px;
+}
+
+.imagen2 {
+    height: 350px;
+    width: 450px;
+}
+
+.footer2 {
+    padding-top: 0px;
+    height: 0px;
+    padding-left: 10px;
+}
+
+.texto2 {
+    padding-top: 30px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+
+.icono-extremo2 {
+    margin-left: 300px;
+}
+
+.icono-izquierda2 {
+    padding-top: 10px;
+    height: 0px;
+    padding-left: 0px;
+}
+
+.nav {
+    background-color: white;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.NomH1 {
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-left: 600px;
+}
